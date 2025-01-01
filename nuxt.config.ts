@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   ssr: false,
   modules: ['@nuxt/ui'],
   colorMode: {
-    preference: 'dark'
+    preference: 'light'
   },
   build: {
     transpile: ['jdenticon']

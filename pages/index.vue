@@ -60,15 +60,15 @@ onMounted(() => {
     </UButton>
 
     <div class="api-example">
-      <h3>API Usage Text</h3>
+      <h3>API Usage Example</h3>
       <p>Inputted Text Endpoint:</p>
-      <code class="api-url">http://localhost:3000/api/identicon/+Text_Here+</code>
+      <code class="api-url">https://identicons-rest-api.vercel.app/api/identicon/+Text_Here+</code>
     </div>
 
     <div class="api-example">
       <h3>API Usage Example</h3>
       <p>Inputted Text Enpoint + Custom Size:</p>
-      <code class="api-url">http://localhost:3000/api/identicon/+Text_Here+?size=300]</code>
+      <code class="api-url">https://identicons-rest-api.vercel.app/api/identicon/+Text_Here+?size=300]</code>
     
     </div>
 
