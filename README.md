@@ -11,9 +11,12 @@ Generate Identicons and convert them via a REST API built in the Nuxt 3 JS Frame
 
 Install the required dependency:
 
+https://jdenticon.com
+
 ```bash
 npm install jdenticon
 ```
+
 
 ## Nuxt 3 Minimal Starter
 
